@@ -1,1 +1,1 @@
-Repo to be used for tarball.ca utterances only.
+Repo to be used for tarball.ca comments only.
